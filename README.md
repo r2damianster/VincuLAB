@@ -459,3 +459,31 @@ Instituciones encontradas para 2025-1: 15
 - **Nombres de variables**: `snake_case`
 - **Comentarios**: En español para funciones principales
 - **Información de depuración**: Usar emojis para facilitar lectura (`🏢`, `📊`, `✅`, `❌`)
+
+## 📞 Soporte
+
+### Información de Contacto
+
+Para soporte técnico o consultas sobre el sistema, contactar al equipo de desarrollo del proyecto de vinculación de la Carrera de Educación Especial.
+
+### Logs y Depuración
+
+El sistema genera información detallada en la consola. Para reportar problemas, incluir:
+
+1. **Mensaje de error completo**
+2. **Período utilizado**
+3. **Información de depuración de la consola**
+4. **Pasos para reproducir el problema**
+
+---
+
+## 📄 Licencia
+
+Este sistema fue desarrollado para la **Universidad Laica Eloy Alfaro de Manabí - Carrera de Educación Especial** como parte del proyecto de vinculación con la sociedad "Espacios de Apoyo Pedagógico Inclusivo".
+
+---
+
+**Versión**: 2.0  
+**Última actualización**: Enero 2025  
+**Desarrollado por**: Equipo de Vinculación - Educación Especial ULEAM
+
